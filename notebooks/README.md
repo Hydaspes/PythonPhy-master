@@ -1,4 +1,5 @@
-A collection of notebooks which includes example python code of miscellaneous topics in physics. 
+A collection of notebooks on miscellaneous topics in physics. 
+
 
 
 
