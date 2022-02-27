@@ -1,2 +1,2 @@
 # PythonPhy-master
- Jupyter notebooks  on PDE,Statistical Mechanics,etc.
+ Jupyter notebooks  on probabilty,statistics,physics.
