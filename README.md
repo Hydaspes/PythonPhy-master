@@ -1,2 +1,2 @@
 # PythonPhy-master
- Jupyter notebooks  on probabilty,statistics,physics.
+ Jupyter notebooks  on  miscellaneous topics in probality and physics.
